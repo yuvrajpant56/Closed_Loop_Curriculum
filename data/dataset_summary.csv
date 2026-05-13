@@ -1,0 +1,9 @@
+difficulty_n,dataset,split,num_examples,target_min,target_max,local_file,size_MB
+2,citrinegui/countdown_n2t100_1-100,train,327680,0,100,./local_data/countdown_n2_train.parquet,6.4
+2,citrinegui/countdown_n2t100_1-100,test,1024,0,100,./local_data/countdown_n2_test.parquet,0.0
+3,citrinegui/countdown_n3t100_1-100,train,327680,0,100,./local_data/countdown_n3_train.parquet,12.6
+3,citrinegui/countdown_n3t100_1-100,test,1024,0,100,./local_data/countdown_n3_test.parquet,0.1
+4,citrinegui/countdown_n4t100_1-100,train,327680,0,100,./local_data/countdown_n4_train.parquet,16.8
+4,citrinegui/countdown_n4t100_1-100,test,1024,0,100,./local_data/countdown_n4_test.parquet,0.1
+5,citrinegui/countdown_n5t100_1-100,train,327680,0,100,./local_data/countdown_n5_train.parquet,24.4
+5,citrinegui/countdown_n5t100_1-100,test,1024,0,100,./local_data/countdown_n5_test.parquet,0.1
